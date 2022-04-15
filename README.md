@@ -1,5 +1,7 @@
 # react-off-click
 
+[![npm package](https://nodei.co/npm/react-off-click-hook.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-off-click-hook/)
+
 A simple element off click hook for React whereby triggering a provided callback when an element outside the bounded context has been clicked
 with elements arguments for which offclicks are permitted.
 
