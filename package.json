@@ -1,0 +1,41 @@
+{
+  "name": "react-off-click",
+  "version": "1.0.0",
+  "description": "An element off click hook for react",
+  "main": "./src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJMcCarthy95/react-off-click"
+  },
+  "author": {
+    "name": "Taylor McCarthy",
+    "url": "https://github.com/TJMcCarthy95"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "off click",
+    "react hooks"
+  ],
+  "engines": {
+    "node": ">=v16.4.2"
+  },
+  "dependencies": {
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.0.1",
+    "@testing-library/react-hooks": "^8.0.0",
+    "@types/jest": "^27.4.1",
+    "@types/react": "^18.0.5",
+    "jest": "^27.5.1",
+    "react-dom": "^18.0.0",
+    "react-test-renderer": "^18.0.0",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "test": "jest --config"
+  }
+}
